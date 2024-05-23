@@ -1,0 +1,6 @@
+@BeatGeneratorAPI_HostAddress = http://localhost:5172
+
+GET {{BeatGeneratorAPI_HostAddress}}/BeatGenerator/
+Accept: application/json
+
+###
